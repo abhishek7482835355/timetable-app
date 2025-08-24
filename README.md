@@ -1,97 +1,28 @@
-# Timetable
-A timetable app aimed at students to keep track of class timings and projects due.
+# Timetable App ⏰📚
 
-_This app was our second year project submission for the annual Android app developing competition - DroidRush, held at our university._
+A simple Android application that helps students manage their daily timetable with ease.  
+Built using **Java, XML, and Android Studio** with a clean light theme UI.
 
-_We won the 'Best app by Second Year' award for this app in 2017._
+---
 
-## Features
-- Remember when and where there are classes
-- Remind the student about classes before a set time
-- Automatically vibrate phone during lessons
-- Keep track of pending projects
-- Interactive tutorial to help users get acquainted with the app
-- Home screen widget for easy viewing and access to the app
-- Send the app to a friend by simply sharing it  
+## ✨ Features
+- 📅 Automatically shows the timetable for the **current day**
+- ✏️ Easy editing of subjects and timings
+- 🔔 Sends notifications for upcoming classes
+- 🖼️ Simple and clean UI for smooth user experience
 
-<br/>
+---
 
+## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/splash.jpg" width="40%"/> <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/main.jpg" width="40%"/>
-</p>
-<p align="center">
-  <em>Splash screen and the default screen of the app</em>
+  <img src="main.jpg" alt="Main Screen" width="250"/>
+  <img src="cal.jpg" alt="Calendar Screen" width="250"/>
+  <img src="about.jpg" alt="About Screen" width="250"/>
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/tut.jpg"/>
-</p>
-<p align="center">
-  <em>Tutorial screen after opening the app for the first time</em>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/widget.jpg" width="50%"/>
-</p>
-<p align="center">
-  <em>Home screen widget</em>
-</p>  
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/project.jpg" width="50%"/>
-</p>
-<p align="center">
-  <em>Projects pane</em>
-</p>  
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/addproject.jpg" width="40%"/> <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/cal.jpg" width="40%"/>
-</p>
-<p align="center">
-  <em>Adding projects</em>
-</p>  
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/about.jpg" width="50%"/>
-</p>
-<p align="center">
-  <em>About screen</em>
-</p>  
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/sidebar.jpg" width="40%"/> <img src="https://github.com/rajatdiptabiswas/timetable/blob/master/settings.jpg" width="40%"/>
-</p>
-<p align="center">
-  <em>Navigation drawer and settings screen</em>
-</p>  
-
-<br/>
-
-### Prerequisites
-* [Android Studio](https://developer.android.com/studio/), IDE for developing Android apps
-
-### Installing
-* Download the repository into a single folder
-* Load the project into Android Studio by using the 'Add Project' menu
-* Sync the gradle according to the project's gradle version
-* Install the apk onto an Android device using Android Studio
-
-## Authors
-
-* **Kalyan Prusty** - *Lead Developer*
-* **Shreyas Dhobal** - *Developer*
-* **Rajat Biswas** - *Lead Designer*
-
-See also the list of [contributors](https://github.com/rajatdiptabiswas/timetable/graphs/contributors) who participated in this project.
+## ⚙️ Installation
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/abhishek7482835355/timetable-app.git
